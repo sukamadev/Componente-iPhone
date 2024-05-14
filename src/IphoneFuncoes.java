@@ -1,6 +1,6 @@
 public class IphoneFuncoes implements NavegadorInternet, AparelhoTelefonico, ReprodutorMusical {
     public void exibirPagina() {
-        System.out.println("Página eibida.");
+        System.out.println("Página exibida.");
     }
     public void adicionarNovaAba() {
         System.out.println("Nova Aba adicionada.");
